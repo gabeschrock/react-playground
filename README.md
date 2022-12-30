@@ -1,3 +1,3 @@
-# react-playground
-## by gabeschrock
+# React Playground
+## Gabe Schrock
 Testing out React.
